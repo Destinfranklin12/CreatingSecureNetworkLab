@@ -1,6 +1,6 @@
 <h1>Creating A Secure Network Lab</h1>
 
- ### [YouTube Demonstration]( )
+ ### [Lab Presentation](https://drive.google.com/file/d/1xZxPnIknPb-VTrF5t_QtARpb9dAeCX22/view?usp=share_link)
 
 <h2>Lab Scenario</h2>
 You have been hired by an IT company as an IT subject matter expert. Management has a client who
